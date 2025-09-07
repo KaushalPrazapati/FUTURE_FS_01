@@ -7,7 +7,7 @@ A responsive and dynamic portfolio website built with the MERN stack, featuring 
 ## 🌟 Live Demo
 
 [**🌐 Live Portfolio**](https://kaushalprazapati.netlify.app)  
-[**📦 GitHub Repository**](https://github.com/KaushalPrazapati/portfolio-website)
+[**📦 GitHub Repository**](https://github.com/KaushalPrazapati/FUTURE_FS_01)
 
 ## 🛠️ Tech Stack
 
